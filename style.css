@@ -1,4 +1,4 @@
-div{
+#div{
     text-align: center;
 }
 h2{
@@ -9,4 +9,7 @@ h1{
 }
 btn{
     padding: 20px 20px;
+}
+#file{
+    text-align: center;
 }
